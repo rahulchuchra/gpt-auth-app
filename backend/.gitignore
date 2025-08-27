@@ -1,0 +1,31 @@
+# Node
+backend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env files (keep secrets out of git)
+backend/.env
+.env.local
+.env
+frontend/.env
+
+# Build outputs
+dist/
+build/
+frontend/dist/
+backend/dist/
+coverage/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Misc
+logs/
