@@ -1,4 +1,5 @@
 # Auth Portal — Email/Password + Google + GitHub
+## Video URL - https://drive.google.com/file/d/1-CNf2vbF-SkfxlgQqle1rwpnOy6HVi7A/view?usp=sharing
 
 A simple auth demo with:
 - Email/password **registration** + **login** (email format + strong password rule)
